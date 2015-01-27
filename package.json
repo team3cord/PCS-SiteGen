@@ -1,0 +1,26 @@
+{
+  "name": "SiteGen",
+  "version": "0.0.1",
+  "description": "Utility to add in the creation of static sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "`node bin` "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/team3cord/PCS-GenSite"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "author": "Matt C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team3cord/PCS-GenSite/issues"
+  },
+  "homepage": "https://github.com/team3cord/PCS-GenSite",
+  "dependencies": {
+    "marked": "^0.3.3"
+  }
+}
