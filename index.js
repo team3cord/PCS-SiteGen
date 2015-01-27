@@ -1,1 +1,1 @@
-module.exports = require('./lib/markall');
+module.exports = require('./lib/postbatch');
