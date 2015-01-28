@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/team3cord/PCS-GenSite",
   "dependencies": {
+    "jade": "^1.9.1",
     "marked": "^0.3.3"
   }
 }
