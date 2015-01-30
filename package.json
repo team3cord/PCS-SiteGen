@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/team3cord/PCS-GenSite"
+    "url": "https://github.com/team3cord/PCS-SiteGen"
   },
   "keywords": [
     "JavaScript",
@@ -17,9 +17,9 @@
   "author": "Matt C",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/team3cord/PCS-GenSite/issues"
+    "url": "https://github.com/team3cord/PCS-SiteGen/issues"
   },
-  "homepage": "https://github.com/team3cord/PCS-GenSite",
+  "homepage": "https://github.com/team3cord/PCS-SiteGen",
   "dependencies": {
     "jade": "^1.9.1",
     "marked": "^0.3.3"
